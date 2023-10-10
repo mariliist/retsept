@@ -1,0 +1,68 @@
+@import url('https://fonts.googleapis.com/css2?family=AR+One+Sans:wght@700&family=Space+Mono&display=swap');
+
+* {
+    background-color: rgb(128, 9, 9);
+    text-align: center;
+    color: bisque;
+}
+
+.header {
+    padding: 20px;
+    margin: auto;
+    text-align: center;
+}
+
+.ingredients{
+align-items: center;
+}
+
+.step {
+    padding: 20px;
+  
+}
+
+.table {
+    margin: auto;
+    border: 1px solid;
+    padding: 20px;
+}
+
+h1 {
+    color: rgb(255, 255, 255);
+}
+
+h2 {
+    color: rgb(255, 255, 255);
+
+}
+
+h3 {
+    color: rgb(255, 255, 255);
+
+}
+
+p {
+    font-family: 'Space Mono', monospace;
+}
+
+img {
+    height: 50vw;
+}
+
+.link {
+    color: rgb(216, 216, 247);
+    font-family: 'Space Mono', monospace;
+    font-weight: 600;
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
+
+.link:hover {
+    color: rgb(3, 208, 235);
+}
+
+.list {
+    list-style-type: none;
+}
+
+.footer {}
